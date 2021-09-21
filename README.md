@@ -1,6 +1,9 @@
 # Thực tập tại trung tâm CDCT-HUST 
+
 **Họ tên: Trịnh Xuân Tùng**
+
 **MSSV: 20183663**
+
 *Đây là repository chứa nội dung em học được trong học phần IT3804 Thực tập doanh nghiêp tại trung tâm CDCT HUST, đề tài Phân tích dữ liệu chuỗi thời gian, dưới sự hướng dẫn của anh Nguyễn Văn Thiệu.*
 
 *Hiện tại chứa nội dung từ 29/7 tới 2/9.*
