@@ -15,7 +15,9 @@ Nội dung repository:
 	- Week 3: KNN
 	- Week 5: Feature engineering
 	- Week 6: AR, MA, ARIMA
-- 1 file trình chiếu định dạng .odp
+- 2 file trình chiếu định dạng .odp"
+	- slide.odp: chứa báo cáo từ 29/7 tới 2/9
+	- slide2.odp: chứa báo cáo từ 19/9 tới 26/9
 - 1 file PDF sách
 
 Tài liệu tham khảo:
